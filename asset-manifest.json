@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.7be67546.chunk.js": "/static/js/0.7be67546.chunk.js",
+    "static/js/0.7be67546.chunk.js.map": "/static/js/0.7be67546.chunk.js.map",
+    "main.css": "/static/css/main.4f4cba7f.chunk.css",
+    "main.js": "/static/js/main.f6687d39.chunk.js",
+    "main.js.map": "/static/js/main.f6687d39.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67e15886.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67e15886.js.map",
+    "static/js/3.fc21476f.chunk.js": "/static/js/3.fc21476f.chunk.js",
+    "static/js/3.fc21476f.chunk.js.map": "/static/js/3.fc21476f.chunk.js.map",
+    "static/js/4.87f4918a.chunk.js": "/static/js/4.87f4918a.chunk.js",
+    "static/js/4.87f4918a.chunk.js.map": "/static/js/4.87f4918a.chunk.js.map",
+    "static/css/5.af66ddbf.chunk.css": "/static/css/5.af66ddbf.chunk.css",
+    "static/js/5.e0096f0c.chunk.js": "/static/js/5.e0096f0c.chunk.js",
+    "static/js/5.e0096f0c.chunk.js.map": "/static/js/5.e0096f0c.chunk.js.map",
+    "static/js/6.cd5bba3b.chunk.js": "/static/js/6.cd5bba3b.chunk.js",
+    "static/js/6.cd5bba3b.chunk.js.map": "/static/js/6.cd5bba3b.chunk.js.map",
+    "static/js/7.c07a29d2.chunk.js": "/static/js/7.c07a29d2.chunk.js",
+    "static/js/7.c07a29d2.chunk.js.map": "/static/js/7.c07a29d2.chunk.js.map",
+    "static/js/8.8ac26ecb.chunk.js": "/static/js/8.8ac26ecb.chunk.js",
+    "static/js/8.8ac26ecb.chunk.js.map": "/static/js/8.8ac26ecb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/5.af66ddbf.chunk.css.map": "/static/css/5.af66ddbf.chunk.css.map",
+    "static/css/main.4f4cba7f.chunk.css.map": "/static/css/main.4f4cba7f.chunk.css.map",
+    "static/js/0.7be67546.chunk.js.LICENSE.txt": "/static/js/0.7be67546.chunk.js.LICENSE.txt",
+    "static/js/3.fc21476f.chunk.js.LICENSE.txt": "/static/js/3.fc21476f.chunk.js.LICENSE.txt",
+    "static/js/5.e0096f0c.chunk.js.LICENSE.txt": "/static/js/5.e0096f0c.chunk.js.LICENSE.txt",
+    "static/media/notifications.css": "/static/media/notification.c5d9251e.ttf",
+    "static/media/App.scss": "/static/media/sofiapro-light.7978d11b.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67e15886.js",
+    "static/css/5.af66ddbf.chunk.css",
+    "static/js/5.e0096f0c.chunk.js",
+    "static/css/main.4f4cba7f.chunk.css",
+    "static/js/main.f6687d39.chunk.js"
+  ]
+}
